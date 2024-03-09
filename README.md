@@ -75,7 +75,7 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/6e9b84ba-72d9-4bf6-81cd-648220ad8c40" width="230px">
 
 
-## Analyze
+## Analyze & Share
 To address our business objective, it would be helpful to visualize key observations regarding the distinct ways casual riders and members use their bikes. We will start our analysis first by finding out the ratio of casual riders and members
 
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/3f11b9e1-ddaf-4a75-b59f-92468173e0ae" width="80%" height="85%">
@@ -181,6 +181,19 @@ Based on the analysis, we can conclude that:
 *	The longest ride duration for a casual rider was 12,136 minutes, equivalent to approximately 202 hours, while for a member, it was 1,498 minutes, or approximately 25 hours.
   
 *	The majority of bike usage is attributed to Classic bikes, followed by approximately half the usage for Electric bikes, while Docked bikes are the least utilized. Specifically, Classic bikes are utilized by 42% of members and 21% of casual riders, while Electric bikes are preferred by 23% of members and 14% of casual riders. Additionally, only a small fraction (2%) of casual riders utilize Docked bikes.
+
+
+## Act
+Once the disparities between casual and member riders are identified, tailored marketing strategies can be crafted to target casual riders and encourage them to become annual members:
+
+1.	Implement targeted marketing campaigns during peak seasons and weekends, focusing on tourist and recreational locations frequented by casual riders. Highlight the benefits of annual membership, such as convenience, cost-effectiveness, and exclusive perks.
+
+2.	Offer promotional incentives to encourage casual riders to upgrade to annual memberships, such as discounted upgrades during peak riding occasions like weekends and summer months. Utilize location-based advertisements on social media platforms to reach casual riders at popular start stations.
+
+3.	Launch a retention campaign aimed at increasing member engagement, particularly during less popular months, by offering rewards or benefits for continued usage. Educate casual riders about the advantages of membership through informative campaigns, addressing potential misconceptions and showcasing the value of long-term commitment to Cyclistic.
+
+
+
 
 
 
