@@ -133,7 +133,12 @@ To gain deeper insights into the distinctions between casual and member riders, 
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/ab3168de-b198-4149-8dae-942d1b355aa7" width="80%" height="85%" align="center">
 <br /><br />
 Casual riders tend to initiate trips from stations near cultural and recreational landmarks like museums, parks, beaches, and aquariums, while members often start journeys from stations near universities, residential areas, eateries, and other amenities. Popular stations among annual members are evenly distributed around office and business areas, whereas stations favored by casual riders are closer to the coastline, indicating potential leisure activities.
+<br /><br />
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/669bafdb-42fc-43f7-b546-90c59489e2c4" width="80%" height="85%" align="center">
+<br /><br />
+A consistent pattern emerges in the locations where trips end as well. Casual riders tend to finish their journeys near parks, museums, and other recreational spots, while members typically conclude their trips near universities, residential areas, and commercial hubs. This further strengthens the argument that casual riders use bikes for leisure activities, whereas members rely heavily on them for daily commuting purposes.
 
+These are the top 10 start and end stations for members:
 
 
 
