@@ -24,7 +24,7 @@ Now, prepare your data for analysis using the Case Study Roadmap as a guide.
 The data used for analysis is sourced from Motivate International Inc. and represents the historical trip data of Cyclistic for the past 12 months. The datasets have been made available under a license that permits their use for this case study. Efforts have been made to assess and mitigate biases, ensuring credibility during analysis.
 
 #### • Data Location:- 
-The data is downloaded from the provided link divvy-tripdata, and it is stored in a secure and accessible location for analysis.
+The data is downloaded from the provided link *[divvy-tripdata]*(https://divvy-tripdata.s3.amazonaws.com/index.html), and it is stored in a secure and accessible location for analysis.
 
 #### • Data Organization:- 
 The data is organized across 12 files, each labeled with the naming convention ‘YYYYMM-divvy-tripdata’, where each file corresponds to one month of Cyclistic's ride information. Each file encompasses essential details such as ride ID, bike type, start time, end time, start station, end station, start location coordinates, end location coordinates, and a classification indicating whether the rider is a member or a casual user. The specific column names associated with this data include ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, 
