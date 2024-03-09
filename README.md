@@ -13,8 +13,5 @@ Three questions will guide the future marketing program:
 Moreno has assigned you the first question to answer: How do annual members and casualriders use Cyclistic bikes differently?
 
 ### Business Task: 
-Analyze and understand the distinct patterns of bike usage between annual 
-members and casual riders of Cyclistic. This involves identifying the differences in behavior, 
-preferences, and utilization patterns to gain insights that can inform targeted marketing strategies 
-and business decisions. The goal is to optimize the marketing program by tailoring offerings and 
-incentives based on the unique needs and behaviors of these two customer segments.
+Analyze and understand the distinct patterns of bike usage between annual members and casual riders of Cyclistic. This involves identifying the differences in behavior, preferences, and utilization patterns to gain insights that can inform targeted marketing strategies and business decisions. The goal is to optimize the marketing program by tailoring offerings and incentives based on the unique needs and behaviors of these two customer segments.
+
