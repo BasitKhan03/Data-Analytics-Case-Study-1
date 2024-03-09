@@ -112,6 +112,10 @@ Next, we will analyze the monthly, weekly, and hourly number of rides for both m
 <br /><br />
 •	Throughout the day, members experience two peaks in the number of rides, the first occurring between 6-10 am, followed by a gradual increase towards their second peak between 4-8 pm, and then decreasing towards the end of the day. On the other hand, casual riders see a gradual increase in the number of rides throughout the day, peaking in the evening and decreasing afterward.
 
+Next, we will analyze the monthly, weekly, and hourly average ride duration for both members and casual riders.
+<br /><br />
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/982aa3d2-1180-40b9-bf23-0ab9d7c1edb3" width="80%" height="85%" align="center">
+<br /><br />
 
 
 
