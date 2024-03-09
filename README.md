@@ -49,7 +49,7 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 ### Change Log:
 |#|Title|Description|Status|
 | --- | :---: | --- | :---: |
-| 1) | Merge Datasets | <p>The 12 CSV files are uploaded to the BigQuery dataset “Cyclistic_Bike_Share” and then merged into a table named “Bike_Share_Data_2023” that contains rows for entire year.</p> | Completed |
+| 1) | Merge Datasets | The 12 CSV files are uploaded to the BigQuery dataset “Cyclistic_Bike_Share” and then merged into a table named “Bike_Share_Data_2023” that contains rows for entire year | Completed |
 | 2) | Add Column | Added a column for finding ride duration named “ride_length” | Completed |
 | 3) | Add Column | Added a column for finding the ride day named “day_of_week” | Completed |
 | 4) | Add Column | Added a column for finding the month of ride named “month” | Completed |
