@@ -5,7 +5,7 @@ Google Data Analytics capstone case study for Cyclistic bike-share analysis
 You are a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations. In order to answer the business questions, follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
 
-## - Ask
+## Ask
 Three questions will guide the future marketing program:
 1. How do annual members and casual riders use Cyclistic bikes differently?
 2. Why would casual riders buy Cyclistic annual memberships?
@@ -13,14 +13,14 @@ Three questions will guide the future marketing program:
 
 Moreno has assigned you the first question to answer: How do annual members and casualriders use Cyclistic bikes differently?
 
-### Business Task: 
+### -> Business Task: 
 Analyze and understand the distinct patterns of bike usage between annual members and casual riders of Cyclistic. This involves identifying the differences in behavior, preferences, and utilization patterns to gain insights that can inform targeted marketing strategies and business decisions. The goal is to optimize the marketing program by tailoring offerings and incentives based on the unique needs and behaviors of these two customer segments.
 
 
-## - Prepare
+## Prepare
 Now, prepare your data for analysis using the Case Study Roadmap as a guide.
 
-### Data Sources: 
+### -> Data Sources: 
 The data used for analysis is sourced from Motivate International Inc. and represents the historical trip data of Cyclistic for the past 12 months. The datasets have been made available under a license that permits their use for this case study. Efforts have been made to assess and mitigate biases, ensuring credibility during analysis.
 
 #### • Data Location:- 
@@ -40,13 +40,13 @@ The integrity of the data has been verified by checking for missing values, inco
 While the data is instrumental in addressing the question of different bike usage patterns between annual members and casual riders, limitations exist due to the absence of personally identifiable information, impacting the ability to correlate certain user details. 
 
 
-## - Process
+## Process
 Then, process your data for analysis using the Case Study Roadmap as a guide.
 
-### Tools:
+### -> Tools:
 I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store and analyze the data as ‘Cyclistic bike share’ dataset has more than 5.2 million rows and it would be difficult to store and analyze it using Microsoft excel or spreadsheet which are unable to manage huge volumes of data. To create data visualizations, I’m using `Tableau`.
 
-### Change Log:
+### -> Change Log:
 |#|Title|Description|Status|
 | --- | :---: | --- | :---: |
 | 1) | Merge Datasets | The 12 CSV files are uploaded to the BigQuery dataset “Cyclistic_Bike_Share” and then merged into a table named “Bike_Share_Data_2023” that contains rows for entire year | Completed |
@@ -57,7 +57,7 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 | 6) | Remove Duplicate Rows | Duplicate rows are removed for the analysis | Completed |
 | 7) | Remove Rows with Null Values | Rows containing Null values are detected and removed for the analysis | Completed |
 
-### Data Observation:
+### -> Data Observation:
 #### 1) Column names and data types:
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/e1ea58c6-326f-4a4c-8762-9f861f4a0178" width="260px">
 
@@ -75,7 +75,7 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/6e9b84ba-72d9-4bf6-81cd-648220ad8c40" width="230px">
 
 
-## - Analyze
+## Analyze
 To address our business objective, it would be helpful to visualize key observations regarding the distinct ways casual riders and members use their bikes. We will start our analysis first by finding out the ratio of casual riders and members
 
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/3f11b9e1-ddaf-4a75-b59f-92468173e0ae" width="85%" height="85%" align="center">
