@@ -31,7 +31,7 @@ The data is organized across 12 files, each labeled with the naming convention �
 end_lat, end_lng, and member_casual. This structured arrangement facilitates a comprehensive exploration of Cyclistic's bike usage patterns over the specified time frame.
 
 #### • Licensing, Privacy, Security, and Accessibility:- 
-The data has been made available by Motivate International Inc. under this license. The usage of the data adheres to the provided license terms, ensuring compliance with legal and ethical considerations. Privacy has been maintained by excluding personally identifiable information, adhering to data-privacy regulations. 
+The data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement). The usage of the data adheres to the provided license terms, ensuring compliance with legal and ethical considerations. Privacy has been maintained by excluding personally identifiable information, adhering to data-privacy regulations. 
 
 #### • Data Integrity Verification:- 
 The integrity of the data has been verified by checking for missing values, inconsistencies, and outliers. Any discrepancies found have been documented, and appropriate cleaning and preprocessing steps have been taken to address them.
