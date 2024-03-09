@@ -40,5 +40,7 @@ The integrity of the data has been verified by checking for missing values, inco
 While the data is instrumental in addressing the question of different bike usage patterns between annual members and casual riders, limitations exist due to the absence of personally identifiable information, impacting the ability to correlate certain user details. 
 
 
+## Process
+Then, process your data for analysis using the Case Study Roadmap as a guide
 
 
