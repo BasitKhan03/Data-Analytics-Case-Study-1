@@ -66,6 +66,6 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/0b493bd3-f40f-40d0-aa39-e3151b1bde6a" width="740px">
 
 #### 3)	Number of duplicate rows:
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/f64d394d-80f0-4bcc-a32b-e2cce70c9536" width="200px">
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/1219eb5a-44f0-4077-87da-9d4acc6353ff" width="200px">
 
 
