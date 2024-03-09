@@ -140,7 +140,7 @@ A consistent pattern emerges in the locations where trips end as well. Casual ri
 <br /><br />
 These are the top 10 start and end stations for members:
 <br /><br />
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/638742d7-929b-43b0-8346-7271cbb287c1" width="80%" height="85%" align="center">
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/638742d7-929b-43b0-8346-7271cbb287c1" width="80%" height="80%" align="center">
 <br /><br />
 
 
