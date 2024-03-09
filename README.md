@@ -106,11 +106,11 @@ Next, we will analyze the monthly, weekly, and hourly number of rides for both m
 <br /><br />
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/e253fed2-90e3-468c-b70d-dcf17b959386" width="80%" height="85%" align="center">
 <br /><br />
-•	__Month:__ The number of rides for both members and casual riders increases as the year progresses, reaching a peak in August for members and in July for casual riders, followed by a gradual decline towards the year-end. Furthermore, members consistently surpass casual riders in the number of rides each month throughout the year. 
+•	The number of rides for both members and casual riders increases as the year progresses, reaching a peak in August for members and in July for casual riders, followed by a gradual decline towards the year-end. Furthermore, members consistently surpass casual riders in the number of rides each month throughout the year. 
 <br /><br />
-**Week** At the beginning of the week, members see a slight increase in the number of rides, followed by a relatively consistent trend during weekdays, and then a gradual decrease on the weekend. In contrast, casual riders maintain a consistent number of rides on weekdays and experience an increase on the weekend. The difference in the number of rides between members and casual riders is significant on weekdays, with members having more rides. This difference decreases on the weekend, reaching its minimum on Saturdays. However, throughout the entire week, members consistently have more rides than casual riders.
+• At the beginning of the week, members see a slight increase in the number of rides, followed by a relatively consistent trend during weekdays, and then a gradual decrease on the weekend. In contrast, casual riders maintain a consistent number of rides on weekdays and experience an increase on the weekend. The difference in the number of rides between members and casual riders is significant on weekdays, with members having more rides. This difference decreases on the weekend, reaching its minimum on Saturdays. However, throughout the entire week, members consistently have more rides than casual riders.
 <br /><br />
-•	**Hour** Throughout the day, members experience two peaks in the number of rides, the first occurring between 6-10 am, followed by a gradual increase towards their second peak between 4-8 pm, and then decreasing towards the end of the day. On the other hand, casual riders see a gradual increase in the number of rides throughout the day, peaking in the evening and decreasing afterward.
+• Throughout the day, members experience two peaks in the number of rides, the first occurring between 6-10 am, followed by a gradual increase towards their second peak between 4-8 pm, and then decreasing towards the end of the day. On the other hand, casual riders see a gradual increase in the number of rides throughout the day, peaking in the evening and decreasing afterward.
 <br /><br />
 Next, we will analyze the monthly, weekly, and hourly average ride duration for both members and casual riders.
 <br /><br />
@@ -129,5 +129,13 @@ Now, let's examine the maximum ride duration for each type of rider. Interesting
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/12a888df-64ca-4b2f-b019-c43467c5c696" width="80%" height="85%" align="center">
 <br /><br />
 To gain deeper insights into the distinctions between casual and member riders, we can analyze the locations of starting and ending stations.
+<br /><br />
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/ab3168de-b198-4149-8dae-942d1b355aa7" width="80%" height="85%" align="center">
+<br /><br />
+Casual riders tend to initiate trips from stations near cultural and recreational landmarks like museums, parks, beaches, and aquariums, while members often start journeys from stations near universities, residential areas, eateries, and other amenities. Popular stations among annual members are evenly distributed around office and business areas, whereas stations favored by casual riders are closer to the coastline, indicating potential leisure activities.
+
+
+
+
 
 
