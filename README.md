@@ -57,6 +57,9 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 | 6) | Remove Duplicate Rows | Duplicate rows are removed for the analysis | Completed |
 | 7) | Remove Rows with Null Values | Rows containing Null values are detected and removed for the analysis | Completed |
 
+### Data Observation:
+#### 1) Column names and data types:
+![image](https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/e1ea58c6-326f-4a4c-8762-9f861f4a0178)
 
 
 
