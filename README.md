@@ -111,11 +111,16 @@ Next, we will analyze the monthly, weekly, and hourly number of rides for both m
 •	At the beginning of the week, members see a slight increase in the number of rides, followed by a relatively consistent trend during weekdays, and then a gradual decrease on the weekend. In contrast, casual riders maintain a consistent number of rides on weekdays and experience an increase on the weekend. The difference in the number of rides between members and casual riders is significant on weekdays, with members having more rides. This difference decreases on the weekend, reaching its minimum on Saturdays. However, throughout the entire week, members consistently have more rides than casual riders.
 <br /><br />
 •	Throughout the day, members experience two peaks in the number of rides, the first occurring between 6-10 am, followed by a gradual increase towards their second peak between 4-8 pm, and then decreasing towards the end of the day. On the other hand, casual riders see a gradual increase in the number of rides throughout the day, peaking in the evening and decreasing afterward.
-
+<br /><br />
 Next, we will analyze the monthly, weekly, and hourly average ride duration for both members and casual riders.
 <br /><br />
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/982aa3d2-1180-40b9-bf23-0ab9d7c1edb3" width="80%" height="85%" align="center">
 <br /><br />
+•	Throughout the year, casual riders have a higher average ride duration than members, with the average ride duration for casual riders peaking in the summer and spring seasons. In contrast, members maintain a consistent average ride duration throughout the entire year.
+
+•	Throughout the week, casual riders have a higher average ride duration than members, with an increase on the weekends. In contrast, members maintain a consistent average ride duration throughout the entire week.
+
+•	Throughout the day, casual riders have a higher average ride duration than members, peaking between 9 am and 3 pm, while members maintain a relatively consistent average ride duration throughout the entire day.
 
 
 
