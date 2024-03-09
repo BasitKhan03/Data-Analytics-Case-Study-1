@@ -104,7 +104,7 @@ The number of rides increases with the progression of the year, reaching a peak 
 As the week begins, the number of rides increases, remains relatively constant throughout the week, and experiences a slight drop on Sundays. During weekdays, the average ride duration remains fairly consistent, whereas on weekends, there is an uptick in the average ride duration.
 Next, we will analyze the monthly, weekly, and hourly number of rides for both members and casual riders.
 <br /><br />
-![image](https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/e253fed2-90e3-468c-b70d-dcf17b959386)
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/e253fed2-90e3-468c-b70d-dcf17b959386" width="80%" height="85%" align="center">
 <br /><br />
 
 
