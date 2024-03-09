@@ -62,8 +62,8 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/e1ea58c6-326f-4a4c-8762-9f861f4a0178" width="260px">
 
 #### 2) Number of null values in each column:
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/2cbee7ea-8020-475f-b235-93bf0153f92d" width="740px">
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/0b493bd3-f40f-40d0-aa39-e3151b1bde6a" width="690px">
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/2cbee7ea-8020-475f-b235-93bf0153f92d" width="720px">
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/0b493bd3-f40f-40d0-aa39-e3151b1bde6a" width="670px">
 
 #### 3)	Number of duplicate rows:
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/8b6012f3-6ef0-43a3-aec9-5ccd03c9a800" width="210px">
