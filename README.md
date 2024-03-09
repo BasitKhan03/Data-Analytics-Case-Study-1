@@ -79,9 +79,9 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 To address our business objective, it would be helpful to visualize key observations regarding the distinct ways casual riders and members use their bikes. We will start our analysis first by finding out the ratio of casual riders and members
 
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/3f11b9e1-ddaf-4a75-b59f-92468173e0ae" width="80%" height="85%" align="center">
-<br><br>
-Casual <b>riders</b> make up around 35.67% of total rides while members make up around 64.33%. 
-<br><br>
+<br /><br />
+Casual riders make up around 35.67% of total rides while members make up around 64.33%. 
+<br /><br />
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/be4e2807-f18e-4eae-a196-67297f6e7cee" width="80%" height="85%" align="center">
 <br /><br />
 But casual riders spend almost double the time per ride than a member does. So there’s a good possibility to maximize the number of annual memberships. Next, we will analyze the different types of bikes and their usage.
@@ -106,11 +106,11 @@ Next, we will analyze the monthly, weekly, and hourly number of rides for both m
 <br /><br />
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/e253fed2-90e3-468c-b70d-dcf17b959386" width="80%" height="85%" align="center">
 <br /><br />
-•	The number of rides for both members and casual riders increases as the year progresses, reaching a peak in August for members and in July for casual riders, followed by a gradual decline towards the year-end. Furthermore, members consistently surpass casual riders in the number of rides each month throughout the year. 
+• <strong>Month:</strong>	The number of rides for both members and casual riders increases as the year progresses, reaching a peak in August for members and in July for casual riders, followed by a gradual decline towards the year-end. Furthermore, members consistently surpass casual riders in the number of rides each month throughout the year. 
 <br /><br />
-• At the beginning of the week, members see a slight increase in the number of rides, followed by a relatively consistent trend during weekdays, and then a gradual decrease on the weekend. In contrast, casual riders maintain a consistent number of rides on weekdays and experience an increase on the weekend. The difference in the number of rides between members and casual riders is significant on weekdays, with members having more rides. This difference decreases on the weekend, reaching its minimum on Saturdays. However, throughout the entire week, members consistently have more rides than casual riders.
+• <strong>Week:</strong> At the beginning of the week, members see a slight increase in the number of rides, followed by a relatively consistent trend during weekdays, and then a gradual decrease on the weekend. In contrast, casual riders maintain a consistent number of rides on weekdays and experience an increase on the weekend. The difference in the number of rides between members and casual riders is significant on weekdays, with members having more rides. This difference decreases on the weekend, reaching its minimum on Saturdays. However, throughout the entire week, members consistently have more rides than casual riders.
 <br /><br />
-• Throughout the day, members experience two peaks in the number of rides, the first occurring between 6-10 am, followed by a gradual increase towards their second peak between 4-8 pm, and then decreasing towards the end of the day. On the other hand, casual riders see a gradual increase in the number of rides throughout the day, peaking in the evening and decreasing afterward.
+• <strong>Hour:</strong> Throughout the day, members experience two peaks in the number of rides, the first occurring between 6-10 am, followed by a gradual increase towards their second peak between 4-8 pm, and then decreasing towards the end of the day. On the other hand, casual riders see a gradual increase in the number of rides throughout the day, peaking in the evening and decreasing afterward.
 <br /><br />
 Next, we will analyze the monthly, weekly, and hourly average ride duration for both members and casual riders.
 <br /><br />
