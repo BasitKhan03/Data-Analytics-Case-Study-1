@@ -137,8 +137,11 @@ Casual riders tend to initiate trips from stations near cultural and recreationa
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/669bafdb-42fc-43f7-b546-90c59489e2c4" width="80%" height="85%" align="center">
 <br /><br />
 A consistent pattern emerges in the locations where trips end as well. Casual riders tend to finish their journeys near parks, museums, and other recreational spots, while members typically conclude their trips near universities, residential areas, and commercial hubs. This further strengthens the argument that casual riders use bikes for leisure activities, whereas members rely heavily on them for daily commuting purposes.
-
+<br /><br />
 These are the top 10 start and end stations for members:
+<br /><br />
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/638742d7-929b-43b0-8346-7271cbb287c1" width="80%" height="85%" align="center">
+<br /><br />
 
 
 
