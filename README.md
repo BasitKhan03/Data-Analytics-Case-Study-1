@@ -59,8 +59,6 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 
 ### -> Data Observation:
 #### 1) Column names and data types:
-![image](https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/db45d72e-6c68-4204-9101-fcfdf784214a){width=40%}
-
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/e1ea58c6-326f-4a4c-8762-9f861f4a0178" width="250px">
 
 #### 2) Number of null values in each column:
@@ -144,6 +142,14 @@ These are the top 10 start and end stations for members:
 <br /><br />
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/638742d7-929b-43b0-8346-7271cbb287c1" width="60%" height="60%" align="center">
 <br /><br />
+Now, let’s look at the top 10 start and end stations for casual riders:
+<br /><br />
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/4b1512b7-3a2e-4479-b15c-b5cc34c1d5c5" width="60%" height="60%" align="center">
+<br /><br />
+The top start and end stations for members are predominantly near work locations and downtown areas, while those for casual riders are often near public recreational areas. And overall the top 10 start and end stations are:
+<br /><br />
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/51187013-486f-4e57-88f7-6b9978b193ed" width="60%" height="60%" align="center">
+
 
 
 
