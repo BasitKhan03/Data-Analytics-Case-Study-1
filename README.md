@@ -59,7 +59,7 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 
 ### -> Data Observation:
 #### 1) Column names and data types:
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/e1ea58c6-326f-4a4c-8762-9f861f4a0178" width="260px">
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/e1ea58c6-326f-4a4c-8762-9f861f4a0178" width="250px">
 
 #### 2) Number of null values in each column:
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/2cbee7ea-8020-475f-b235-93bf0153f92d" width="710px">
@@ -140,7 +140,7 @@ A consistent pattern emerges in the locations where trips end as well. Casual ri
 <br /><br />
 These are the top 10 start and end stations for members:
 <br /><br />
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/638742d7-929b-43b0-8346-7271cbb287c1" width="80%" height="80%" align="center">
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/638742d7-929b-43b0-8346-7271cbb287c1" width="70%" height="70%" align="center">
 <br /><br />
 
 
