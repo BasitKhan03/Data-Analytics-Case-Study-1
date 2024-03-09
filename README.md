@@ -82,7 +82,7 @@ To address our business objective, it would be helpful to visualize key observat
 <br /><br />
 
 Casual riders make up around 35.67% of total rides while members make up around 64.33%. 
-<br /><br />
+<br />
 
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/be4e2807-f18e-4eae-a196-67297f6e7cee" width="80%" height="85%" align="center">
 <br /><br />
