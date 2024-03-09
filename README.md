@@ -59,6 +59,10 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 
 ### Data Observation:
 #### 1) Column names and data types:
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/e1ea58c6-326f-4a4c-8762-9f861f4a0178" width="250px">
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/e1ea58c6-326f-4a4c-8762-9f861f4a0178" width="260px">
+
+#### 2) Number of null values in each column:
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/2cbee7ea-8020-475f-b235-93bf0153f92d" width="260px">
+
 
 
