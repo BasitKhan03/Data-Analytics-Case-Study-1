@@ -59,7 +59,7 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 
 ### -> Data Observation:
 #### 1) Column names and data types:
-![image](https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/db45d72e-6c68-4204-9101-fcfdf784214a){width: 100px}
+![image](https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/db45d72e-6c68-4204-9101-fcfdf784214a){width=40%}
 
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/e1ea58c6-326f-4a4c-8762-9f861f4a0178" width="250px">
 
