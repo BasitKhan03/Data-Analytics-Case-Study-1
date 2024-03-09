@@ -43,6 +43,7 @@ While the data is instrumental in addressing the question of different bike usag
 ## Process
 Then, process your data for analysis using the Case Study Roadmap as a guide.
 
-
+### Tools:
+I have used Microsoft Excel to clean the data. I’m using BigQuery to store and analyze the data as ‘Cyclistic bike share’ dataset has more than 5.2 million rows and it would be difficult to store and analyze it using Microsoft excel or spreadsheet which are unable to manage huge volumes of data. To create data visualizations, I’m using Tableau.
 
 
