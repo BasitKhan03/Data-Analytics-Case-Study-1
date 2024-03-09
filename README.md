@@ -78,6 +78,11 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 ## - Analyze
 To address our business objective, it would be helpful to visualize key observations regarding the distinct ways casual riders and members use their bikes. We will start our analysis first by finding out the ratio of casual riders and members
 
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/3f11b9e1-ddaf-4a75-b59f-92468173e0ae" align="center">
+
+
+
+
 
 
 
