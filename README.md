@@ -88,20 +88,20 @@ Casual riders make up around 35.67% of total rides while members make up around 
 <br /><br />
 
 But casual riders spend almost double the time per ride than a member does. So there’s a good possibility to maximize the number of annual memberships. Next, we will analyze the different types of bikes and their usage.
-<br /><br />
+<br />
 
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/3b341c9f-cea3-4490-9a03-5b948b072044" width="80%" height="85%" align="center">
 <br /><br />
 
 We can see that the majority of riders use ‘Classic bikes’, and nearly half of them opt for ‘Electric bikes’. While a very small amount of riders use ‘Docked bikes’.  
-<br /><br />
+<br />
 
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/97ca82cf-ab43-4802-bfbf-2acd4e7b6ec9" width="80%" height="85%" align="center">
 <br /><br />
 
 The charts for each bike type display percentages relative to the overall total. ‘Classic bikes’ are used by 42% members and 21% casual riders while ‘Electric bikes’ are used by 23% members and 14% casual riders. ‘Docked bikes’ are only used by a small amount (2%) of casual riders. 
 Now, we will observe the overall trends for total rides and average ride duration over the year and over the week.
-<br /><br />
+<br />
 
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/38191f9f-ea6e-4003-afac-d46f2bdb21fa" width="80%" height="85%" align="center">
 <br /><br />
