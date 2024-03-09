@@ -94,7 +94,7 @@ We can see that the majority of riders use ‘Classic bikes’, and nearly half 
 <br /><br />
 The charts for each bike type display percentages relative to the overall total. ‘Classic bikes’ are used by 42% members and 21% casual riders while ‘Electric bikes’ are used by 23% members and 14% casual riders. ‘Docked bikes’ are only used by a small amount (2%) of casual riders. 
 Now, we will observe the overall trends for total rides and average ride duration over the year and over the week.
-<br />
+<br /><br />
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/38191f9f-ea6e-4003-afac-d46f2bdb21fa" width="80%" height="85%" align="center">
 <br /><br />
 The number of rides increases with the progression of the year, reaching a peak in August, and then gradually decreases towards the end of the year. This implies that there are more trips during the summer and spring seasons, while the number decreases in winter.
