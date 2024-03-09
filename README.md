@@ -158,28 +158,29 @@ Based on the analysis, we can conclude that:
 
 *	In 2023, the proportion of members (64.33%) exceeded that of casual riders (35.67%).
 
-•	The average ride duration for casual riders (23.43 minutes) exceeded that of members (12.48 minutes).
+*	The average ride duration for casual riders (23.43 minutes) exceeded that of members (12.48 minutes).
 
-•	Casual riders recorded the longest ride duration, totaling 34,948,960 minutes (equivalent to approximately 58,248 hours), whereas members accumulated a ride duration of 33,560,122 minutes (equivalent to approximately 55,934 hours).
+*	Casual riders recorded the longest ride duration, totaling 34,948,960 minutes (equivalent to approximately 58,248 hours), whereas members accumulated a ride duration of 33,560,122 minutes (equivalent to approximately 55,934 hours).
 
-•	August emerged as the most popular month, witnessing 570,370 rides with an average ride duration of 18.15 minutes.
+*	August emerged as the most popular month, witnessing 570,370 rides with an average ride duration of 18.15 minutes.
 
-•	December experienced the lowest popularity, recording 131,454 rides with an average ride duration of 11.60 minutes.
+*	December experienced the lowest popularity, recording 131,454 rides with an average ride duration of 11.60 minutes.
 
-•	Saturday emerged as the most popular day for bike sharing overall, with 636,229 rides and an average ride duration of 19.93 minutes.
+*	Saturday emerged as the most popular day for bike sharing overall, with 636,229 rides and an average ride duration of 19.93 minutes.
 
-•	Sunday ranked as the least popular day for bike sharing overall, with only 541,107 rides, yet it had the highest average ride duration of 20.03 minutes.
+*	Sunday ranked as the least popular day for bike sharing overall, with only 541,107 rides, yet it had the highest average ride duration of 20.03 minutes.
 
-•	Saturday stood out as the most popular day for casual riders, boasting an average ride duration of 26.50 minutes while Thursday emerged as the most favored day for members, featuring an average ride duration of 11.90 minutes.
+*	Saturday stood out as the most popular day for casual riders, boasting an average ride duration of 26.50 minutes while Thursday emerged as the most favored day for members, featuring an average ride duration of 11.90 minutes.
 
-•	The top start and end station overall was "Streeter Dr & Grand Ave".
+*	The top start and end station overall was "Streeter Dr & Grand Ave".
 
-•	For members, the most popular start station was "Kingsbury St & Kinzie St", from which 23,303 trips originated. The most popular end station for members was "Clinton St & Washington Blvd", where 24,223 trips concluded.
+*	For members, the most popular start station was "Kingsbury St & Kinzie St", from which 23,303 trips originated. The most popular end station for members was "Clinton St & Washington Blvd", where 24,223 trips concluded.
 
-•	The top start station for casual riders was "Streeter Dr & Grand Ave", from which 42,185 trips began, while the most popular end station for casual riders was also "Streeter Dr & Grand Ave", with 46,534 trips concluding there.
+*	The top start station for casual riders was "Streeter Dr & Grand Ave", from which 42,185 trips began, while the most popular end station for casual riders was also "Streeter Dr & Grand Ave", with 46,534 trips concluding there.
 
-•	The longest ride duration for a casual rider was 12,136 minutes, equivalent to approximately 202 hours, while for a member, it was 1,498 minutes, or approximately 25 hours.
-•	The majority of bike usage is attributed to Classic bikes, followed by approximately half the usage for Electric bikes, while Docked bikes are the least utilized. Specifically, Classic bikes are utilized by 42% of members and 21% of casual riders, while Electric bikes are preferred by 23% of members and 14% of casual riders. Additionally, only a small fraction (2%) of casual riders utilize Docked bikes.
+*	The longest ride duration for a casual rider was 12,136 minutes, equivalent to approximately 202 hours, while for a member, it was 1,498 minutes, or approximately 25 hours.
+  
+*	The majority of bike usage is attributed to Classic bikes, followed by approximately half the usage for Electric bikes, while Docked bikes are the least utilized. Specifically, Classic bikes are utilized by 42% of members and 21% of casual riders, while Electric bikes are preferred by 23% of members and 14% of casual riders. Additionally, only a small fraction (2%) of casual riders utilize Docked bikes.
 
 
 
