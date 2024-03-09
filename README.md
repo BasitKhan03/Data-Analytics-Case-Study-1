@@ -15,3 +15,13 @@ Moreno has assigned you the first question to answer: How do annual members and 
 ### Business Task: 
 Analyze and understand the distinct patterns of bike usage between annual members and casual riders of Cyclistic. This involves identifying the differences in behavior, preferences, and utilization patterns to gain insights that can inform targeted marketing strategies and business decisions. The goal is to optimize the marketing program by tailoring offerings and incentives based on the unique needs and behaviors of these two customer segments.
 
+## Prepare
+Now, prepare your data for analysis using the Case Study Roadmap as a guide.
+
+### Data Sources: 
+The data used for analysis is sourced from Motivate International Inc. and represents the historical trip data of Cyclistic for the past 12 months. The datasets have been made available under a license that permits their use for this case study. Efforts have been made to assess and mitigate biases, ensuring credibility during analysis.
+
+
+
+
+
