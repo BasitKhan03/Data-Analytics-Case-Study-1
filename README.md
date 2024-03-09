@@ -117,12 +117,17 @@ Next, we will analyze the monthly, weekly, and hourly average ride duration for 
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/982aa3d2-1180-40b9-bf23-0ab9d7c1edb3" width="80%" height="85%" align="center">
 <br /><br />
 •	Throughout the year, casual riders have a higher average ride duration than members, with the average ride duration for casual riders peaking in the summer and spring seasons. In contrast, members maintain a consistent average ride duration throughout the entire year.
-
+<br /><br />
 •	Throughout the week, casual riders have a higher average ride duration than members, with an increase on the weekends. In contrast, members maintain a consistent average ride duration throughout the entire week.
-
+<br /><br />
 •	Throughout the day, casual riders have a higher average ride duration than members, peaking between 9 am and 3 pm, while members maintain a relatively consistent average ride duration throughout the entire day.
-
-
-
+<br /><br />
+The analysis shows that casual riders travel longer distances, approximately twice as much as members, but less frequently. Casual riders opt for extended journeys on weekends, during non-commuting hours, and in the spring and summer seasons, hinting at a preference for recreational purposes. In contrast, annual members, with significantly shorter average trip durations, likely utilize the bikes for daily commuting between home and work. Notably, ridership experiences a decline in the later months of the year, potentially attributed to seasonal changes, particularly in October when temperatures drop, and the possibility of snow arises. An intriguing observation is the peak in casual member ridership during July. Considering the typical school calendar in Chicago, ending around mid-July, and resuming at the end of August, we could speculate that the majority of these users are not high school students.
+<br /><br />
+Now, let's examine the maximum ride duration for each type of rider. Interestingly, one casual rider recorded an exceptionally long ride duration of 12,136 minutes on their bike. That's equivalent to approximately 202 hours spent riding. On the other hand, the maximum ride duration for members was 1,498 minutes, which is equivalent to approximately 25 hours.
+<br /><br />
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/12a888df-64ca-4b2f-b019-c43467c5c696" width="80%" height="85%" align="center">
+<br /><br />
+To gain deeper insights into the distinctions between casual and member riders, we can analyze the locations of starting and ending stations.
 
 
