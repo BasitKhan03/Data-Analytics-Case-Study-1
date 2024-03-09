@@ -98,9 +98,11 @@ Now, we will observe the overall trends for total rides and average ride duratio
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/38191f9f-ea6e-4003-afac-d46f2bdb21fa" width="80%" height="85%" align="center">
 <br /><br />
 The number of rides increases with the progression of the year, reaching a peak in August, and then gradually decreases towards the end of the year. This implies that there are more trips during the summer and spring seasons, while the number decreases in winter.
-
-
-
+<br /><br />
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/5552bd3f-9f4d-485d-aa18-d01fdfc8527b" width="80%" height="85%" align="center">
+<br /><br />
+As the week begins, the number of rides increases, remains relatively constant throughout the week, and experiences a slight drop on Sundays. During weekdays, the average ride duration remains fairly consistent, whereas on weekends, there is an uptick in the average ride duration.
+Next, we will analyze the monthly, weekly, and hourly number of rides for both members and casual riders.
 
 
 
