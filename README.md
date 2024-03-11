@@ -92,73 +92,73 @@ To address our business objective, it would be helpful to visualize key observat
 
 Casual riders make up around 35.67% of total rides while members make up around 64.33%. 
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/be4e2807-f18e-4eae-a196-67297f6e7cee"><br />
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-1/assets/101899595/037449a9-a073-4dc6-9614-32cc1a96f3eb)
 
 But casual riders spend almost double the time per ride than a member does. So there’s a good possibility to maximize the number of annual memberships. Next, we will analyze the different types of bikes and their usage.
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/3b341c9f-cea3-4490-9a03-5b948b072044"><br />
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-1/assets/101899595/6ce694c6-c053-4af8-92c8-eae96e5f594c)
 
 We can see that the majority of riders use ‘Classic bikes’, and nearly half of them opt for ‘Electric bikes’. While a very small amount of riders use ‘Docked bikes’.  
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/97ca82cf-ab43-4802-bfbf-2acd4e7b6ec9"><br />
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-1/assets/101899595/b6f41dfa-6855-4636-b794-432e3cea3599)
 
 The charts for each bike type display percentages relative to the overall total. ‘Classic bikes’ are used by 42% members and 21% casual riders while ‘Electric bikes’ are used by 23% members and 14% casual riders. ‘Docked bikes’ are only used by a small amount (2%) of casual riders. 
 Now, we will observe the overall trends for total rides and average ride duration over the year and over the week.
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/38191f9f-ea6e-4003-afac-d46f2bdb21fa"><br />
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-1/assets/101899595/f8033622-e6cd-49c8-a0e3-a2b2d812995a)
 
 The number of rides increases with the progression of the year, reaching a peak in August, and then gradually decreases towards the end of the year. This implies that there are more trips during the summer and spring seasons, while the number decreases in winter.
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/5552bd3f-9f4d-485d-aa18-d01fdfc8527b"><br />
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-1/assets/101899595/4685b204-80ee-4446-aeb9-76a575bd387d)
 
 As the week begins, the number of rides increases, remains relatively constant throughout the week, and experiences a slight drop on Sundays. During weekdays, the average ride duration remains fairly consistent, whereas on weekends, there is an uptick in the average ride duration.
 Next, we will analyze the monthly, weekly, and hourly number of rides for both members and casual riders.
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/e253fed2-90e3-468c-b70d-dcf17b959386"><br />
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-1/assets/101899595/c38da8d3-9ff8-4916-aa49-9ebf8174c609)
 
-• <strong>Month:</strong>	The number of rides for both members and casual riders increases as the year progresses, reaching a peak in August for members and in July for casual riders, followed by a gradual decline towards the year-end. Furthermore, members consistently surpass casual riders in the number of rides each month throughout the year. 
+• **Month:** The number of rides for both members and casual riders increases as the year progresses, reaching a peak in August for members and in July for casual riders, followed by a gradual decline towards the year-end. Furthermore, members consistently surpass casual riders in the number of rides each month throughout the year. 
 
-• <strong>Week:</strong> At the beginning of the week, members see a slight increase in the number of rides, followed by a relatively consistent trend during weekdays, and then a gradual decrease on the weekend. In contrast, casual riders maintain a consistent number of rides on weekdays and experience an increase on the weekend. The difference in the number of rides between members and casual riders is significant on weekdays, with members having more rides. This difference decreases on the weekend, reaching its minimum on Saturdays. However, throughout the entire week, members consistently have more rides than casual riders.
+• **Week:** At the beginning of the week, members see a slight increase in the number of rides, followed by a relatively consistent trend during weekdays, and then a gradual decrease on the weekend. In contrast, casual riders maintain a consistent number of rides on weekdays and experience an increase on the weekend. The difference in the number of rides between members and casual riders is significant on weekdays, with members having more rides. This difference decreases on the weekend, reaching its minimum on Saturdays. However, throughout the entire week, members consistently have more rides than casual riders.
 
-• <strong>Hour:</strong> Throughout the day, members experience two peaks in the number of rides, the first occurring between 6-10 am, followed by a gradual increase towards their second peak between 4-8 pm, and then decreasing towards the end of the day. On the other hand, casual riders see a gradual increase in the number of rides throughout the day, peaking in the evening and decreasing afterward.
+• **Hour:** Throughout the day, members experience two peaks in the number of rides, the first occurring between 6-10 am, followed by a gradual increase towards their second peak between 4-8 pm, and then decreasing towards the end of the day. On the other hand, casual riders see a gradual increase in the number of rides throughout the day, peaking in the evening and decreasing afterward.
 
 Next, we will analyze the monthly, weekly, and hourly average ride duration for both members and casual riders.
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/982aa3d2-1180-40b9-bf23-0ab9d7c1edb3"><br />
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-1/assets/101899595/6f32e2b9-2b63-437d-b3b4-f4ac1daa095e)
 
-• <strong>Month:</strong>	Throughout the year, casual riders have a higher average ride duration than members, with the average ride duration for casual riders peaking in the summer and spring seasons. In contrast, members maintain a consistent average ride duration throughout the entire year.
+• **Month:** Throughout the year, casual riders have a higher average ride duration than members, with the average ride duration for casual riders peaking in the summer and spring seasons. In contrast, members maintain a consistent average ride duration throughout the entire year.
 
-•	<strong>Week:</strong> Throughout the week, casual riders have a higher average ride duration than members, with an increase on the weekends. In contrast, members maintain a consistent average ride duration throughout the entire week.
+•	**Week:** Throughout the week, casual riders have a higher average ride duration than members, with an increase on the weekends. In contrast, members maintain a consistent average ride duration throughout the entire week.
 
-•	<strong>Hour:</strong> Throughout the day, casual riders have a higher average ride duration than members, peaking between 9 am and 3 pm, while members maintain a relatively consistent average ride duration throughout the entire day.
+•	**Hour:** Throughout the day, casual riders have a higher average ride duration than members, peaking between 9 am and 3 pm, while members maintain a relatively consistent average ride duration throughout the entire day.
 
 The analysis shows that casual riders travel longer distances, approximately twice as much as members, but less frequently. Casual riders opt for extended journeys on weekends, during non-commuting hours, and in the spring and summer seasons, hinting at a preference for recreational purposes. In contrast, annual members, with significantly shorter average trip durations, likely utilize the bikes for daily commuting between home and work. Notably, ridership experiences a decline in the later months of the year, potentially attributed to seasonal changes, particularly in October when temperatures drop, and the possibility of snow arises. An intriguing observation is the peak in casual member ridership during July. Considering the typical school calendar in Chicago, ending around mid-July, and resuming at the end of August, we could speculate that the majority of these users are not high school students.
 
 Now, let's examine the maximum ride duration for each type of rider. Interestingly, one casual rider recorded an exceptionally long ride duration of 12,136 minutes on their bike. That's equivalent to approximately 202 hours spent riding. On the other hand, the maximum ride duration for members was 1,498 minutes, which is equivalent to approximately 25 hours.
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/12a888df-64ca-4b2f-b019-c43467c5c696"><br />
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-1/assets/101899595/c8b5d5e4-d2c8-439b-b031-2b14e6149b50)
 
 To gain deeper insights into the distinctions between casual and member riders, we can analyze the locations of starting and ending stations.
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/ab3168de-b198-4149-8dae-942d1b355aa7"><br />
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-1/assets/101899595/b21243c5-8dc8-479d-90e2-30cb3d76351f)
 
 Casual riders tend to initiate trips from stations near cultural and recreational landmarks like museums, parks, beaches, and aquariums, while members often start journeys from stations near universities, residential areas, eateries, and other amenities. Popular stations among annual members are evenly distributed around office and business areas, whereas stations favored by casual riders are closer to the coastline, indicating potential leisure activities.
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/669bafdb-42fc-43f7-b546-90c59489e2c4"><br />
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-1/assets/101899595/db497769-a8ed-4ab4-8f44-fee229b795c0)
 
 A consistent pattern emerges in the locations where trips end as well. Casual riders tend to finish their journeys near parks, museums, and other recreational spots, while members typically conclude their trips near universities, residential areas, and commercial hubs. This further strengthens the argument that casual riders use bikes for leisure activities, whereas members rely heavily on them for daily commuting purposes.
 
 These are the top 10 start and end stations for members:
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/638742d7-929b-43b0-8346-7271cbb287c1"><br />
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-1/assets/101899595/ecca2117-6f10-410f-9fa3-db875bc08bd7)
 
 Now, let’s look at the top 10 start and end stations for casual riders:
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/4b1512b7-3a2e-4479-b15c-b5cc34c1d5c5"><br />
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-1/assets/101899595/60208527-740f-4c86-ae3e-1717acd419e1)
 
 The top start and end stations for members are predominantly near work locations and downtown areas, while those for casual riders are often near public recreational areas. And overall the top 10 start and end stations are:
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/51187013-486f-4e57-88f7-6b9978b193ed"><br /><br />
+![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-1/assets/101899595/19a0803e-77f6-4865-bd01-a8ff6a0986b0)
 
 ### -> Summary:
 Casual riders tend to use bikes consistently throughout the day, with higher activity levels on weekends, especially during the summer and spring months, for recreational purposes. Their rides are typically twice as long as members' rides, although less frequent. They often begin and end their trips near parks, museums, coastal areas, and other leisure spots. In contrast, members primarily ride bikes on weekdays, particularly during commute hours in summer and spring. They take shorter rides, approximately half the duration of casual riders, but ride more frequently. Members typically start and end their trips near universities, residential areas, and commercial districts.
