@@ -144,11 +144,11 @@ These are the top 10 start and end stations for members:
 
 Now, let’s look at the top 10 start and end stations for casual riders:
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/4b1512b7-3a2e-4479-b15c-b5cc34c1d5c5" width="80%" height="80%"><br />
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/4b1512b7-3a2e-4479-b15c-b5cc34c1d5c5"><br />
 
 The top start and end stations for members are predominantly near work locations and downtown areas, while those for casual riders are often near public recreational areas. And overall the top 10 start and end stations are:
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/51187013-486f-4e57-88f7-6b9978b193ed" width="80%" height="80%"><br /><br />
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/51187013-486f-4e57-88f7-6b9978b193ed"><br /><br />
 
 ### -> Summary:
 Casual riders tend to use bikes consistently throughout the day, with higher activity levels on weekends, especially during the summer and spring months, for recreational purposes. Their rides are typically twice as long as members' rides, although less frequent. They often begin and end their trips near parks, museums, coastal areas, and other leisure spots. In contrast, members primarily ride bikes on weekdays, particularly during commute hours in summer and spring. They take shorter rides, approximately half the duration of casual riders, but ride more frequently. Members typically start and end their trips near universities, residential areas, and commercial districts.
