@@ -193,7 +193,7 @@ Based on the analysis, we can conclude that:
 
 
 ## Act
-Now that you have finished creating your visualizations, act on your findings.
+Now that you have finished creating your visualizations, act on your findings. Prepare the deliverables Morena asked you to create, including the three top recommendations based on your analysis.
 
 ### -> Recommandations:
 Once the disparities between casual and member riders are identified, tailored marketing strategies can be crafted to target casual riders and encourage them to become annual members:
