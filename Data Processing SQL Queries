@@ -1,0 +1,73 @@
+-- Create a new table named `Bike_Share_Data_2023` in the `Cyclistic_Bike_Share` dataset if it doesn't exist, by combining data from various monthly tables from December 2022 to November 2023. 
+Each monthly table represents bike share data for a specific month and year. The `UNION ALL` operator is used to concatenate the data from each monthly table into the new table without removing duplicate rows.
+
+CREATE TABLE IF NOT EXISTS `zippy-venture-409222.Cyclistic_Bike_Share.Bike_Share_Data_2023` AS (
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Dec_2022`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Jan_2023`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Feb_2023`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Mar_2023`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Apr_2023`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.May_2023_1`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.May_2023_2`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Jun_2023_1`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Jun_2023_2`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Jul_2023_1`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Aug_2023_1`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Aug_2023_2`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Sep_2023_1`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Sep_2023_2`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Oct_2023_1`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Oct_2023_2`
+  UNION ALL
+  SELECT * FROM `zippy-venture-409222.Cyclistic_Bike_Share.Nov_2023`
+);
+
+
+-- Retrieve the count of rows from the `Bike_Share_Data_2023` table within the `Cyclistic_Bike_Share` dataset.
+
+SELECT COUNT(*) AS No_of_rows FROM `zippy-venture-409222.Cyclistic_Bike_Share.Bike_Share_Data_2023`;
+
+
+-- Calculate the count of null values for each column in the `Bike_Share_Data_2023` table within the `Cyclistic_Bike_Share` dataset 
+by subtracting the count of non-null values from the total count of rows for each column.
+
+SELECT COUNT(*) - COUNT(ride_id) AS ride_id,
+  COUNT(*) - COUNT(rideable_type) AS rideable_type,
+  COUNT(*) - COUNT(started_at) AS started_at,
+  COUNT(*) - COUNT(ended_at) AS ended_at,
+  COUNT(*) - COUNT(start_station_name) AS start_station_name,
+  COUNT(*) - COUNT(start_station_id) AS start_station_id,
+  COUNT(*) - COUNT(end_station_name) AS end_station_name,
+  COUNT(*) - COUNT(end_station_id) AS end_station_id,
+  COUNT(*) - COUNT(start_lat) AS start_lat,
+  COUNT(*) - COUNT(start_lng) AS start_lng,
+  COUNT(*) - COUNT(end_lat) AS end_lat,
+  COUNT(*) - COUNT(end_lng) AS end_lng,
+  COUNT(*) - COUNT(member_casual) AS member_casual,
+  COUNT(*) - COUNT(ride_length) AS ride_length,
+  COUNT(*) - COUNT(day_of_week) AS day_of_week
+FROM `zippy-venture-409222.Cyclistic_Bike_Share.Bike_Share_Data_2023`;
+
+
+
+
+
+
+
+
+
