@@ -1,4 +1,4 @@
-# Data-Analytics-Case-Study-1
+# Google-Data-Analytics-Case-Study-1
 Google Data Analytics capstone case study for Cyclistic bike-share analysis 
 
 **Course:** [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone/)
