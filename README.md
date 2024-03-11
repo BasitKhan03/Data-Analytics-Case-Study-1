@@ -80,7 +80,7 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 ## Analyze & Share
 Now that your data is stored appropriately and has been prepared for analysis, start putting it to work. After you have performed your analysis and gained some insights into your data, create visualizations to share your findings.
 
-**Data Visulaizations:** [Tableau](https://public.tableau.com/app/profile/basit.khan3186/viz/GoogleDataAnalyticsCapstoneCaseStudy/Dashboard1)
+**Data Visualizations:** [Tableau](https://public.tableau.com/app/profile/basit.khan3186/viz/GoogleDataAnalyticsCapstoneCaseStudy/Dashboard1)
 
 ### -> Analysis:
 
