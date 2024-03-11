@@ -72,7 +72,7 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/65783073-d1b7-4042-94b6-53d989a0c302" width="230px">
 
 #### 5)	Distinct rideable types in the column 'rideable_type’:
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/6e9b84ba-72d9-4bf6-81cd-648220ad8c40" width="230px">
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/6e9b84ba-72d9-4bf6-81cd-648220ad8c40" width="225px">
 
 
 ## Analyze & Share
