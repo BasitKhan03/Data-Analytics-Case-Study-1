@@ -185,6 +185,9 @@ Based on the analysis, we can conclude that:
 
 
 ## Act
+Now that you have finished creating your visualizations, act on your findings.
+
+### -> Recommandations:
 Once the disparities between casual and member riders are identified, tailored marketing strategies can be crafted to target casual riders and encourage them to become annual members:
 
 1.	Implement targeted marketing campaigns during peak seasons and weekends, focusing on tourist and recreational locations frequented by casual riders. Highlight the benefits of annual membership, such as convenience, cost-effectiveness, and exclusive perks.
