@@ -79,19 +79,19 @@ I have used `Microsoft Excel` to clean the data. I’m using `BigQuery` to store
 To address our business objective, it would be helpful to visualize key observations regarding the distinct ways casual riders and members use their bikes. We will start our analysis first by finding out the ratio of casual riders and members
 
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/3f11b9e1-ddaf-4a75-b59f-92468173e0ae" width="80%" height="85%">
-<br /><br />
+
 Casual riders make up around 35.67% of total rides while members make up around 64.33%. 
-<br /><br />
+
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/be4e2807-f18e-4eae-a196-67297f6e7cee" width="80%" height="85%" align="center">
-<br /><br />
+
 But casual riders spend almost double the time per ride than a member does. So there’s a good possibility to maximize the number of annual memberships. Next, we will analyze the different types of bikes and their usage.
-<br /><br />
+
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/3b341c9f-cea3-4490-9a03-5b948b072044" width="80%" height="85%" align="center">
-<br /><br />
+
 We can see that the majority of riders use ‘Classic bikes’, and nearly half of them opt for ‘Electric bikes’. While a very small amount of riders use ‘Docked bikes’.  
-<br /><br />
+
 <img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/97ca82cf-ab43-4802-bfbf-2acd4e7b6ec9" width="80%" height="85%" align="center">
-<br /><br />
+
 The charts for each bike type display percentages relative to the overall total. ‘Classic bikes’ are used by 42% members and 21% casual riders while ‘Electric bikes’ are used by 23% members and 14% casual riders. ‘Docked bikes’ are only used by a small amount (2%) of casual riders. 
 Now, we will observe the overall trends for total rides and average ride duration over the year and over the week.
 <br /><br />
