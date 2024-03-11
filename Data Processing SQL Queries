@@ -1,4 +1,4 @@
--- Create a new table named `Bike_Share_Data_2023` in the `Cyclistic_Bike_Share` dataset if it doesn't exist, by combining data from various monthly tables from December 2022 to November 2023. 
+-- `Create` a new table named `Bike_Share_Data_2023` in the `Cyclistic_Bike_Share` dataset if it doesn't exist, by combining data from various monthly tables from December 2022 to November 2023. 
 -- Each monthly table represents bike share data for a specific month and year. The `UNION ALL` operator is used to concatenate the data from each monthly table into the new table without removing duplicate rows.
 
 CREATE TABLE IF NOT EXISTS `zippy-venture-409222.Cyclistic_Bike_Share.Bike_Share_Data_2023` AS (
@@ -100,7 +100,7 @@ CREATE TABLE IF NOT EXISTS `zippy-venture-409222.Cyclistic_Bike_Share.Bike_Share
 );
 
 
-> Create a new table named `Bike_Share_Data_2023_V2` in the `Cyclistic_Bike_Share` dataset, if it doesn't exist, with filtered and sorted data from the `Bike_Share_Data_2023_V1` table. 
+-- Create a new table named `Bike_Share_Data_2023_V2` in the `Cyclistic_Bike_Share` dataset, if it doesn't exist, with filtered and sorted data from the `Bike_Share_Data_2023_V1` table. 
 -- The filtering conditions include removing rows where any of the station names or coordinates are NULL, and where the `ride_length` is less than or equal to 1 minute. 
 -- The resulting data is ordered by the `started_at` timestamp.
 
@@ -123,7 +123,6 @@ CREATE TABLE IF NOT EXISTS `zippy-venture-409222.Cyclistic_Bike_Share.Bike_Share
     started_at
 );
 
-hi
 
 
 
