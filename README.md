@@ -140,7 +140,7 @@ A consistent pattern emerges in the locations where trips end as well. Casual ri
 
 These are the top 10 start and end stations for members:
 
-<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/638742d7-929b-43b0-8346-7271cbb287c1" width="80%" height="80%"><br />
+<img src="https://github.com/BasitKhan03/Data-Analytics-Case-Study-1/assets/101899595/638742d7-929b-43b0-8346-7271cbb287c1"><br />
 
 Now, let’s look at the top 10 start and end stations for casual riders:
 
