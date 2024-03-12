@@ -86,7 +86,7 @@ Now that your data is stored appropriately and has been prepared for analysis, s
 
 ### -> Analysis:
 
-To address our business objective, it would be helpful to visualize key observations regarding the distinct ways casual riders and members use their bikes. We will start our analysis first by finding out the ratio of casual riders and members
+To address our business objective, it would be helpful to visualize key observations regarding the distinct ways casual riders and members use their bikes. We will start our analysis first by finding out the ratio of casual riders and members.
 
 ![image](https://github.com/BasitKhan03/Google-Data-Analytics-Case-Study-1/assets/101899595/2906784c-c94b-42a2-b498-a85dea4c0ecb)
 
